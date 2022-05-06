@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/live-News/static/js/main.ce8addba.js",
+    "index.html": "/live-News/index.html",
+    "main.ce8addba.js.map": "/live-News/static/js/main.ce8addba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce8addba.js"
+  ]
+}
